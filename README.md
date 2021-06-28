@@ -1,4 +1,10 @@
 # Projekt-1 (*PROGAMERS*)
+
+
+## Table of contents:
+- [Technologies](#Technologies)
+- [Live version](#Live)
+
 ## TECHNOLOGIES
 
 * HTML
