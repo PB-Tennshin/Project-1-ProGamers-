@@ -3,7 +3,7 @@
 
 ## Table of contents:
 - [Technologies](#Technologies)
-- [Live version](#Live)
+- [Live version](#Live-version)
 
 ## TECHNOLOGIES
 
